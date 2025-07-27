@@ -158,28 +158,21 @@
 }
 .footer-icon{
     display: flex;
-    gap: 30px;
-    
+    gap: 30px;   
 }
-
-
 /* responive */
 @media screen and (max-width:576px){
-    .nav-container{
-        
+    .nav-container{   
     }
     .nav-items{
-
         display: none;
     }
     .nav-links{
         padding: 10px;
         margin-top: 60px;
-
     }
     .banner-container{
-        flex-direction: column-reverse;
-        
+        flex-direction: column-reverse;    
     }
     .banner-text{
         padding: 0 10px;
@@ -206,9 +199,7 @@
         flex-direction: column;
     }
     .img-rigth img{
-        width: 100%;
-        
-        
+        width: 100%;    
     }
     .img-container{
         width: 100%;
